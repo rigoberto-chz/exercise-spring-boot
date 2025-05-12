@@ -1,5 +1,6 @@
 # exercise-spring-boot
 
++ Java
 + Spring Boot
 + RESTful API
 + JPA (Java Persistence API)
