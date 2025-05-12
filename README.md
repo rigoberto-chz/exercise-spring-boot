@@ -1,2 +1,7 @@
 # exercise-spring-boot
-Simple Rest API exercise with Spring Boot, JPA, H2.
+
++ Spring Boot
++ RESTful API
++ JPA (Java Persistence API)
++ H2 Database
++ SQL (Structured Query Language)
